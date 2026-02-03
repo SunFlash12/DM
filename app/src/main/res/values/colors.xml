@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Deep Fantasy Purple -->
+    <color name="primary">#6B4E9B</color>
+    <color name="primary_dark">#4A3570</color>
+    <color name="primary_light">#9B7BC7</color>
+
+    <!-- Secondary Colors - Warm Gold -->
+    <color name="secondary">#C9A032</color>
+    <color name="secondary_dark">#9A7A20</color>
+    <color name="secondary_light">#E8C85A</color>
+
+    <!-- Background Colors -->
+    <color name="background_dark">#1A1625</color>
+    <color name="background_surface">#241F31</color>
+    <color name="background_card">#2E2841</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#F0E6D3</color>
+    <color name="text_secondary">#B8A99A</color>
+    <color name="text_hint">#7A6F65</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_red">#C44536</color>
+    <color name="accent_green">#4A9C6D</color>
+    <color name="accent_blue">#4A7C9B</color>
+
+    <!-- Dice Colors -->
+    <color name="dice_d20">#C44536</color>
+    <color name="dice_d12">#C9A032</color>
+    <color name="dice_d10">#4A9C6D</color>
+    <color name="dice_d8">#4A7C9B</color>
+    <color name="dice_d6">#9B4A9C</color>
+    <color name="dice_d4">#9C6B4A</color>
+</resources>
